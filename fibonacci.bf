@@ -1,14 +1,15 @@
-+>+                      ustaw pierwsze dwa wyrazy ciagu Fibonacciego
++                       ustaw pierwszy wyraz ciagu Fibonacciego
 >>>>++++++
 [-<<<<++++++++>>>>]<<<<.
 >>>>++++++
 [-<<<<-------->>>>]<<<<
+>+                      ustaw drugi wyraz ciagu Fibonacciego
 >>>>++++++
 [-<<<<++++++++>>>>]<<<<.
 >>>>++++++
 [-<<<<-------->>>>]<<<<
 
->>>++++                   ustaw liczbe iteracji w polu (4)
+>>>++++                  ustaw liczbe iteracji w polu (4)
 [-<<<
                          wypisz wymaluj to, co jest w polu (1), omijajac pola (0, 1, 2, 3, 4) i zachowujac pole (1)
 
