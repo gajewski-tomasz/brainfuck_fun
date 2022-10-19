@@ -3,3 +3,5 @@ In order to run the code:
 - go to https://copy.sh/brainfuck/
 - paste the contents
 - hit run :)
+
+Of course, you can also use any other brainfuck interpreter that you like!
